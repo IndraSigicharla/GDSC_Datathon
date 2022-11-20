@@ -1,12 +1,18 @@
-# Files  
+# Problem Statement:  
 
-#### Train:
+Ms. Oprah Windfury, an employee of a government agency in charge of the machines in the office, realized that they had been behaving strangely for the past couple of days. They were frequently crashing and receiving unusual error messages, but most importantly, almost all the computers carried several failed logins, hence displaying compromised conditions pertinent to the workings of the machines and devices. Worried that sensitive information may be compromised, she resorted to venerated specialists who told her what she feared most, that a menacing malware had infected them, the Peepeepoopoo. Malware, from a previous incident she knew, was a well-run, well-funded sector devoted to getting around established security measures. Once the malware has infected a machine, it can harm consumers and businesses in several ways. The specialists advised her to seek the cybercrime department’s intel to acquire more perspective. The cybercrime department informed her of the increasing cases of malware infection.
+
+The members of the cyber crime department have dedicated their lives to equipping cyber security to the vulnerable commons, legitimate businesses, and governments that needed their help. For the later part of their career, they spent their time ethically collecting data on systems they encountered, hoping it to help their cause. Each row in this dataset corresponds to a machine, uniquely identified by a machine_id. They recorded essential features such as machine version, access to the root shell, and region. Ms. Oprah Windfury had decided to approach the data science community to postulate a solution to avoid vital and sensitive information of national importance given away. When such a cause presented itself to the data science community you are involved in, you, a pompous melioristic member, decided to work on this problem. An ideal way for a data science practitioner to aid Ms. Oprah would be to help automate the identification of such outlier machines using the data made by cybersecurity specialists. The team that can make accurate predictions is to be rewarded with riches and honor.
+
+# Files:  
+
+#### Train: /training_files/
 
 *train1.parquet  
 train2.parquet  
 train3.parquet*
 
-#### Test:
+#### Test: /testing_files/
 
 *test1.parquet  
 test2.parquet  
